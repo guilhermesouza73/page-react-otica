@@ -8,8 +8,8 @@ export default function Topo() {
       <div className="limitar-secao">
         <div>
           <div className="topo-logo">
-            <a href="../">
-              <img src="../assets/logo.png" alt="Logotipo" />
+            <a href="./">
+              <img src="./assets/logo.png" alt="Logotipo" />
             </a>
           </div>
         </div>
