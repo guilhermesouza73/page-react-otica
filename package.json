@@ -1,5 +1,6 @@
 {
   "name": "page-react-otica",
+  "homepage": "https://guilhermesouza73.github.io/page-react-otica/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,11 +20,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  "homepage": {
-    "name": "starter-project",
-    "homepage": "https://guilhermesouza73.github.io/page-react-otica/",
-    "version": "0.1.0"
   },
   "eslintConfig": {
     "extends": [
