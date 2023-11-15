@@ -1,0 +1,29 @@
+.topo {
+  padding: 10px 15px;
+}
+.topo > div {
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.topo-logo img {
+  width: 150px;
+}
+.topo nav ul {
+  display: flex;
+  gap: 15px;
+}
+.topo nav ul li a {
+  text-decoration: none;
+  color: #000;
+  font-size: 18px;
+  text-transform: uppercase;
+  padding: 5px;
+  border-radius: 5px;
+}
+.topo nav ul li a:hover {
+  background-color: #030303;
+  color: #fff;
+  transition: 0.3s;
+}

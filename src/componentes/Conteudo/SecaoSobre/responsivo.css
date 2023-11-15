@@ -1,0 +1,36 @@
+/* Máx 768px */
+@media only screen and (max-width: 768px) {
+  .secao_sobre {
+    padding: 60px 20px;
+  }
+  .secao_sobre_box div:nth-child(2),
+  .secao_sobre_box div:nth-child(3) {
+    padding: 20px;
+    flex-basis: calc(50% - 42px);
+  }
+  .secao_sobre_box h3 {
+    font-size: 22px;
+  }
+  .secao_sobre_box p {
+    font-size: 16px;
+  }
+}
+
+/* Máx 560px */
+@media only screen and (max-width: 560px) {
+  .secao_sobre {
+    padding: 40px 10px;
+  }
+  .secao_sobre_box > div {
+    flex-basis: 100%;
+    height: 250px;
+  }
+  .secao_sobre_box > div:nth-child(2) {
+    border-bottom: solid 3px #a2adad;
+  }
+  .secao_sobre_box > div:nth-child(2),
+  .secao_sobre_box > div:nth-child(3) {
+    flex-basis: 100%;
+    height: 150px;
+  }
+}

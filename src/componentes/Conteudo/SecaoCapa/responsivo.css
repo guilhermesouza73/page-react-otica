@@ -1,0 +1,21 @@
+/* Máx 768px */
+@media only screen and (max-width: 768px) {
+  .secao_capa h1 {
+    font-size: 40px;
+    max-width: 350px;
+  }
+  .secao_capa p {
+    font-size: 20px;
+  }
+}
+
+/* Máx 560px */
+@media only screen and (max-width: 560px) {
+  .secao_capa {
+    background-position: 89% center;
+  }
+  .secao_capa_texto {
+    background-color: rgba(0, 0, 0, 0.65);
+    padding: 0 20px;
+  }
+}

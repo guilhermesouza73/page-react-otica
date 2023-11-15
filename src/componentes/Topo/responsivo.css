@@ -1,0 +1,24 @@
+/* Máx 768px */
+@media only screen and (max-width: 768px) {
+  .topo nav ul li a {
+    font-size: 16px;
+  }
+}
+
+/* Máx 560px */
+@media only screen and (max-width: 560px) {
+  .topo > div {
+    flex-direction: column;
+  }
+  .topo > div div:nth-child(2) {
+    max-width: 100%;
+  }
+  .topo nav {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #aaadaf;
+  }
+  .topo nav ul {
+    justify-content: center;
+  }
+}
