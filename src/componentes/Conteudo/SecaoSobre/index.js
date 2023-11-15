@@ -15,7 +15,7 @@ export default function SecaoSobre() {
         </p>
         <div className="secao_sobre_box">
           <div>
-            <img src="./assets/loja.png" alt="Lojas" />
+            <img src="../../assets/loja.png" alt="Lojas" />
           </div>
           <div>
             <h3 className="subtitulo">Nossas Filiais</h3>
@@ -26,7 +26,7 @@ export default function SecaoSobre() {
             <p>Nossa equipe possui é treinada para te atender</p>
           </div>
           <div>
-            <img src="./assets/atendimento.png" alt="Atendimento" />
+            <img src="/public/assets/atendimento.png" alt="Atendimento" />
           </div>
         </div>
       </div>
