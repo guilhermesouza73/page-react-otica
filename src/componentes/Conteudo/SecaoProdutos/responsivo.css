@@ -26,4 +26,7 @@
   .secao_produtos ul {
     align-items: flex-start;
   }
+  .secao_produtos ul li {
+    text-align: left;
+  }
 }

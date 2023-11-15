@@ -17,20 +17,23 @@ export default function SecaoContato() {
             <h3>Contato</h3>
             <div>
               <img
-                src="page-react-otica/assets/local.png"
+                src="/page-react-otica/assets/local.png"
                 alt="Localização icone"
               />
               <span>São Paulo, SP</span>
             </div>
             <div>
               <img
-                src="page-react-otica/assets/telefone.png"
+                src="./page-react-otica/assets/telefone.png"
                 alt="Telefone icone"
               />
               <span>(11) 9999-9999</span>
             </div>
             <div>
-              <img src="page-react-otica/assets/email.png" alt="Email icone" />
+              <img
+                src="../page-react-otica/assets/email.png"
+                alt="Email icone"
+              />
               <span>contato@contato.com</span>
             </div>
           </div>

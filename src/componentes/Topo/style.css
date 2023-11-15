@@ -2,7 +2,7 @@
   padding: 10px 15px;
 }
 .topo > div {
-  max-width: 100%;
+  max-width: 1024px;
   display: flex;
   align-items: center;
   justify-content: space-between;
