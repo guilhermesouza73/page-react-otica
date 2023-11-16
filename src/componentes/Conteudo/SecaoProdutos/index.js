@@ -20,10 +20,7 @@ export default function SecaoProdutos() {
           <div>
             <h3>Óculos de grau</h3>
             <div>
-              <img
-                src="page-react-otica/assets/oculos01.png"
-                alt="Óculos de grau"
-              />
+              <img src="assets/oculos01.png" alt="Óculos de grau" />
             </div>
             <p>R$ 500,00</p>
           </div>
@@ -31,10 +28,7 @@ export default function SecaoProdutos() {
           <div>
             <h3>Óculos transition</h3>
             <div>
-              <img
-                src="page-react-otica/assets/oculos02.png"
-                alt="Óculos transition"
-              />
+              <img src="assets/oculos02.png" alt="Óculos transition" />
             </div>
             <p>R$ 750,00</p>
           </div>
@@ -42,10 +36,7 @@ export default function SecaoProdutos() {
           <div>
             <h3>Óculos de sol</h3>
             <div>
-              <img
-                src="page-react-otica/assets/oculos03.png"
-                alt="Óculos de sol"
-              />
+              <img src="assets/oculos03.png" alt="Óculos de sol" />
             </div>
             <p>R$ 700,00</p>
           </div>
@@ -53,10 +44,7 @@ export default function SecaoProdutos() {
           <div>
             <h3>Óculos infantil</h3>
             <div>
-              <img
-                src="page-react-otica/assets/oculos04.png"
-                alt="Óculos infantil"
-              />
+              <img src="assets/oculos04.png" alt="Óculos infantil" />
             </div>
             <p>R$ 500,00</p>
           </div>

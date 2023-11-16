@@ -16,24 +16,15 @@ export default function SecaoContato() {
           <div>
             <h3>Contato</h3>
             <div>
-              <img
-                src="/page-react-otica/assets/local.png"
-                alt="Localização icone"
-              />
+              <img src="assets/local.png" alt="Localização icone" />
               <span>São Paulo, SP</span>
             </div>
             <div>
-              <img
-                src="./page-react-otica/assets/telefone.png"
-                alt="Telefone icone"
-              />
+              <img src="assets/telefone.png" alt="Telefone icone" />
               <span>(11) 9999-9999</span>
             </div>
             <div>
-              <img
-                src="../page-react-otica/assets/email.png"
-                alt="Email icone"
-              />
+              <img src="assets/email.png" alt="Email icone" />
               <span>contato@contato.com</span>
             </div>
           </div>
@@ -41,15 +32,15 @@ export default function SecaoContato() {
           <div>
             <h3>Nossas Redes Sociais</h3>
             <div>
-              <img src="page-react-otica/assets/fb.png" alt="Facebook icone" />
+              <img src="assets/fb.png" alt="Facebook icone" />
               <span>/OticaVida</span>
             </div>
             <div>
-              <img src="page-react-otica/assets/ig.png" alt="Instagram icone" />
+              <img src="assets/ig.png" alt="Instagram icone" />
               <span>@oticavidarj</span>
             </div>
             <div>
-              <img src="page-react-otica/assets/tt.png" alt="Twitter icone" />
+              <img src="assets/tt.png" alt="Twitter icone" />
               <span>@oticavidarj</span>
             </div>
           </div>

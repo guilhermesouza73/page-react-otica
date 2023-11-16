@@ -9,7 +9,7 @@ export default function Topo() {
         <div>
           <div className="topo-logo">
             <a href="./">
-              <img src="page-react-otica/assets/logo.png" alt="Logotipo" />
+              <img src="assets/logo.png" alt="Logotipo" />
             </a>
           </div>
         </div>
