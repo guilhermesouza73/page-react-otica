@@ -1,6 +1,10 @@
 import React from "react";
 import "./style.css";
 import "./responsivo.css";
+import Oculos01 from "../../../imagens/oculos01.png";
+import Oculos02 from "../../../imagens/oculos02.png";
+import Oculos03 from "../../../imagens/oculos03.png";
+import Oculos04 from "../../../imagens/oculos04.png";
 
 export default function SecaoProdutos() {
   return (
@@ -20,7 +24,7 @@ export default function SecaoProdutos() {
           <div>
             <h3>Óculos de grau</h3>
             <div>
-              <img src="assets/oculos01.png" alt="Óculos de grau" />
+              <img src={Oculos01} alt="Óculos de grau" />
             </div>
             <p>R$ 500,00</p>
           </div>
@@ -28,7 +32,7 @@ export default function SecaoProdutos() {
           <div>
             <h3>Óculos transition</h3>
             <div>
-              <img src="assets/oculos02.png" alt="Óculos transition" />
+              <img src={Oculos02} alt="Óculos transition" />
             </div>
             <p>R$ 750,00</p>
           </div>
@@ -36,7 +40,7 @@ export default function SecaoProdutos() {
           <div>
             <h3>Óculos de sol</h3>
             <div>
-              <img src="assets/oculos03.png" alt="Óculos de sol" />
+              <img src={Oculos03} alt="Óculos de sol" />
             </div>
             <p>R$ 700,00</p>
           </div>
@@ -44,7 +48,7 @@ export default function SecaoProdutos() {
           <div>
             <h3>Óculos infantil</h3>
             <div>
-              <img src="assets/oculos04.png" alt="Óculos infantil" />
+              <img src={Oculos04} alt="Óculos infantil" />
             </div>
             <p>R$ 500,00</p>
           </div>

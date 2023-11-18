@@ -1,5 +1,5 @@
 .secao_capa {
-  background-image: url("/public/assets/capa.png");
+  background-image: url("/src/imagens/capa.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;

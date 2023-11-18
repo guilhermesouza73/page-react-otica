@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 import "./responsivo.css";
+import Logo from "../../imagens/logo.png";
 
 export default function Topo() {
   return (
@@ -9,7 +10,7 @@ export default function Topo() {
         <div>
           <div className="topo-logo">
             <a href="./">
-              <img src="assets/logo.png" alt="Logotipo" />
+              <img src={Logo} alt="Logotipo" />
             </a>
           </div>
         </div>

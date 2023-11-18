@@ -1,6 +1,8 @@
 import React from "react";
 import "./style.css";
 import "./responsivo.css";
+import Loja from "../../../imagens/loja.png";
+import Atendimento from "../../../imagens/atendimento.png";
 
 export default function SecaoSobre() {
   return (
@@ -15,7 +17,7 @@ export default function SecaoSobre() {
         </p>
         <div className="secao_sobre_box">
           <div>
-            <img src="assets/loja.png" alt="Lojas" />
+            <img src={Loja} alt="Lojas" />
           </div>
           <div>
             <h3 className="subtitulo">Nossas Filiais</h3>
@@ -26,7 +28,7 @@ export default function SecaoSobre() {
             <p>Nossa equipe possui é treinada para te atender</p>
           </div>
           <div>
-            <img src="assets/atendimento.png" alt="Atendimento" />
+            <img src={Atendimento} alt="Atendimento" />
           </div>
         </div>
       </div>

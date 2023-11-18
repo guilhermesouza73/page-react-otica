@@ -1,6 +1,12 @@
 import React from "react";
 import "./style.css";
 import "./responsivo.css";
+import LocalPNG from "../../../imagens/local.png";
+import TelPNG from "../../../imagens/telefone.png";
+import EmailPNG from "../../../imagens/email.png";
+import FacePNG from "../../../imagens/fb.png";
+import InstaPNG from "../../../imagens/ig.png";
+import TwitterPNG from "../../../imagens/tt.png";
 
 export default function SecaoContato() {
   return (
@@ -16,15 +22,15 @@ export default function SecaoContato() {
           <div>
             <h3>Contato</h3>
             <div>
-              <img src="assets/local.png" alt="Localização icone" />
+              <img src={LocalPNG} alt="Localização icone" />
               <span>São Paulo, SP</span>
             </div>
             <div>
-              <img src="assets/telefone.png" alt="Telefone icone" />
+              <img src={TelPNG} alt="Telefone icone" />
               <span>(11) 9999-9999</span>
             </div>
             <div>
-              <img src="assets/email.png" alt="Email icone" />
+              <img src={EmailPNG} alt="Email icone" />
               <span>contato@contato.com</span>
             </div>
           </div>
@@ -32,15 +38,15 @@ export default function SecaoContato() {
           <div>
             <h3>Nossas Redes Sociais</h3>
             <div>
-              <img src="assets/fb.png" alt="Facebook icone" />
+              <img src={FacePNG} alt="Facebook icone" />
               <span>/OticaVida</span>
             </div>
             <div>
-              <img src="assets/ig.png" alt="Instagram icone" />
+              <img src={InstaPNG} alt="Instagram icone" />
               <span>@oticavidarj</span>
             </div>
             <div>
-              <img src="assets/tt.png" alt="Twitter icone" />
+              <img src={TwitterPNG} alt="Twitter icone" />
               <span>@oticavidarj</span>
             </div>
           </div>
