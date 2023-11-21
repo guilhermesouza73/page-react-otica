@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/page-react-otica/static/css/main.71a788ec.css",
-    "main.js": "/page-react-otica/static/js/main.875e4398.js",
+    "main.css": "/page-react-otica/static/css/main.56999b1a.css",
+    "main.js": "/page-react-otica/static/js/main.cd9ec1ec.js",
     "static/js/787.618ebef4.chunk.js": "/page-react-otica/static/js/787.618ebef4.chunk.js",
+    "static/media/atendimento.png": "/page-react-otica/static/media/atendimento.e03d6c4f02fa26d0e1bd.png",
+    "static/media/oculos04.png": "/page-react-otica/static/media/oculos04.2b4ef3046472f1e65e3c.png",
     "static/media/capa.png": "/page-react-otica/static/media/capa.44a9e1db5439c08db3da.png",
+    "static/media/oculos01.png": "/page-react-otica/static/media/oculos01.6f54a4b935d414714b05.png",
+    "static/media/loja.png": "/page-react-otica/static/media/loja.b9dd553b1f5324ca19d8.png",
+    "static/media/oculos03.png": "/page-react-otica/static/media/oculos03.5551db3a9fed6348356a.png",
+    "static/media/oculos02.png": "/page-react-otica/static/media/oculos02.120e034f9037c3e7f5ce.png",
+    "static/media/logo.png": "/page-react-otica/static/media/logo.de2cc3bbc4d89ca71721.png",
     "index.html": "/page-react-otica/index.html",
-    "main.71a788ec.css.map": "/page-react-otica/static/css/main.71a788ec.css.map",
-    "main.875e4398.js.map": "/page-react-otica/static/js/main.875e4398.js.map",
+    "main.56999b1a.css.map": "/page-react-otica/static/css/main.56999b1a.css.map",
+    "main.cd9ec1ec.js.map": "/page-react-otica/static/js/main.cd9ec1ec.js.map",
     "787.618ebef4.chunk.js.map": "/page-react-otica/static/js/787.618ebef4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71a788ec.css",
-    "static/js/main.875e4398.js"
+    "static/css/main.56999b1a.css",
+    "static/js/main.cd9ec1ec.js"
   ]
 }
