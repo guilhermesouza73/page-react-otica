@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import "./responsivo.css";
-import Logo from "../../imagens/logo.png";
+import Logo from "assets/logo.png";
 
 export default function Topo() {
   return (
